@@ -29,4 +29,14 @@ elif
     Print('pass')
 else
     Print('fail')
-
+OUTPUT:
+ENTER SNO:1
+Enter sname:pavani
+Enter sgroup:MPCS
+s1 marks:25
+s2 marks:30
+s3 marks:10
+s4 marks:15
+s5 marks:10
+s6 marks:11
+A- grade
